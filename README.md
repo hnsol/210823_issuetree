@@ -24,3 +24,5 @@
 
 [【コンサル限定？】標準のSmartArtを少し変えて、イシューツリー（ロジックツリー）を手軽に書けるようにしたい
 ](https://qiita.com/hann-solo/items/2b6e1d8ea9e7afde90d1)
+
+けっこう使えますよ。
